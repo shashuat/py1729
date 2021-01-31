@@ -1,5 +1,3 @@
-// Python Program to find prime between 2 numbers 
-
 lower = int(input("Enter lower bound: "))
 upper = int(input("Enter upper bound: "))
 
