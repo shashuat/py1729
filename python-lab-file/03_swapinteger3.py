@@ -1,4 +1,4 @@
-# Program 1.2: Swap two variables
+# Program 3: Swap two variables
 
 x = int(input('Enter value of x: '))
 y = int(input('Enter value of y: '))

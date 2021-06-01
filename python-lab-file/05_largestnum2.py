@@ -1,4 +1,4 @@
-# Program 2.2 : Find largest number
+# Program 5 : Find largest number
 
 list_num = []
 

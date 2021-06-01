@@ -1,4 +1,4 @@
-# Program 1.1: Swap two variables using temp variable
+# Program 1: Swap two variables using temp variable
 
 x = int(input('Enter value of x: '))
 y = int(input('Enter value of y: '))

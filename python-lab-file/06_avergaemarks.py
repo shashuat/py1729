@@ -1,4 +1,4 @@
-# Program 3 : Find aerage of list
+# Program 6 : Find average of list
 
 list_num = []
 
